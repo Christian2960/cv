@@ -1,0 +1,84 @@
+.topcld{
+  position: absolute;
+  left: 62%;
+  top: 10%;
+}
+.botcld{
+  position:absolute;
+  left: 26%;
+  top: 32%;
+}
+.top-container{
+  padding-top: 5%;
+  font-family: 'Tangerine', cursive;
+  font-size: x-large;
+}
+body {
+background-color: #F5EFE6;
+font-family: 'Karla', sans-serif;
+margin-top: 0;
+margin-right: 0;
+margin-left: 1px;
+text-align: center;
+
+
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #AEBDCA;
+  border-width: 5px;
+  width: 10%;
+  
+}
+
+h1{
+  font-family: 'Tangerine', cursive;
+  color: #7895B2;
+  font-size: 80px;
+}
+
+h3{
+  font-family: 'Tangerine', cursive;
+  color: #7895B2;
+  font-size: 50px;
+}
+td{
+  text-align: left;
+}
+.profile_pic{
+  width: 150px;
+  height: 150px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.single{
+  font-size: 30px;
+}
+
+
+table{
+margin-left: auto;
+margin-right: auto;
+}
+
+.occupation{
+  font-family: 'Tangerine', cursive;
+  font-size: 27px;
+  font-weight: 800;
+}
+
+.pharmacy{
+  width: 150px;
+  height: 150px;
+}
+
+.intro{
+  padding-top: 3%;
+}
+
+.disclaimer{
+  font-size: 10px;
+  font-weight: 700;
+}
